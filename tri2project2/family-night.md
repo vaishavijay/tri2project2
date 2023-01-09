@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PFHSSXMJCJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PFHSSXMJCJ');
+</script>
+
 ## Family Night
 > Each evening family will meet.  Family nights are intended to build the Leuck family legacy.
 
