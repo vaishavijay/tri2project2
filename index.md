@@ -1,56 +1,43 @@
-## Weekly Day Student Schedule
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PFHSSXMJCJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PFHSSXMJCJ');
+</script>
+
+## Typical Day Schedule
 
 <body>
 
 <table style="width:100%">
   <tr>
     <th>Date</th>
-    <th>Tasks</th>
+    <th>Time</th>
+    <th>Task</th>
     <th>Place</th>
-    <th>Notes<th>
   </tr>
   <tr>
-    <td>Monday</td>
     <td><input type="text"></td>
-    <td><input type="text"></td>
-    <td><input type="text"></td>
-  </tr>
-  <tr>
-    <td>Tuesday</td>
     <td><input type="text"></td>
     <td><input type="text"></td>
     <td><input type="text"></td>
   </tr>
   <tr>
-    <td>Wednesday</td>
     <td><input type="text"></td>
-    <td><input type="text"></td>
-    <td><input type="text"></td>
-  </tr>
-  <tr>
-    <td>Thursday</td>
     <td><input type="text"></td>
     <td><input type="text"></td>
     <td><input type="text"></td>
   </tr>
-  <tr>
-    <td>Friday</td>
-    <td><input type="text"></td>
-    <td><input type="text"></td>
-    <td><input type="text"></td>
-  </tr>
-  <tr>
-    <td>Saturday</td>
-    <td><input type="text"></td>
-    <td><input type="text"></td>
-    <td><input type="text"></td>
-  </tr>
-  <tr>
-    <td>Sunday</td>
-    <td><input type="text"></td>
-    <td><input type="text"></td>
-    <td><input type="text"></td>
+</table>
 
 <p>NOTE: reloading the page resets the table</p>
+
+<div>
+      <img src="/images//images/Hi-Res-School-Photo-min.jpg
+" alt="Field" style="width:100%">
+    </div>
 
 </body>

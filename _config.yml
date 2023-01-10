@@ -3,7 +3,7 @@ title: "Student Service Site"
 description: "Studying and planning resources from students, to students."
 gitorg: "https://github.com/jm1021/leuck_reunion"
 description: "June 26 to July 1 2023"
-google_analytics:
+google_analytics: G-PFHSSXMJCJ
 
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
