@@ -8,40 +8,29 @@
   gtag('config', 'G-PFHSSXMJCJ');
 </script>
 
-## Family Night
-> Each evening family will meet.  Family nights are intended to build the Leuck family legacy.
+## Title
+> Text
+ 
+> Topic [Link](https://www.google.com)
+- Point
+- Point
+- Point
+- Point
+- Point
 
-### Leuck Greet
-> Movie, Games, Popcorn.  As we slumber in from our travels, how about an unwinding night?
-- Start with Movie
-- Transition to games
-- Mom and Pop welcome, stories about there first family reunions.  Recap of some of the great Leuck get togethers. 
+> Text
+![](images/IMAGELINK.jpg)
 
-Trivia, which one is Frank and Judith?  who are the others?
+## Reunion/Multi-Family Pictures
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
-    <img src="/images/sherwood_glena.jpg" alt="Field" style="width:100%">
+    <img src="/images/IMAGELINK.jpg" alt="ALT" style="width:100%">
   </div>
-   <div class="column">
-    <img src="/images/frank_judith.jpg" alt="Bocce" style="width:100%">
+  <div class="column">
+    <img src="/images/IMAGELINK.jpg" alt="ALT" style="width:100%">
   </div>
-   <div class="column">
-    <img src="/images/norville_erma.jpg" alt="Pool" style="width:100%">
+  <div class="column">
+    <img src="/images/IMAGELINK.jpeg" alt="20ALT15" style="width:100%">
   </div>
 </div>
-
-### Tuesday Family Night
-> Family History night.  What better way to unite in reunion spirit then talk about us, explore our similarities and get excited about our differences.  A night of stories on how we all came together as Leuck's, plus some games on our similarities and differences.
-- Learn the "Leuck Song"
-- Kick off with some games to look at our similarities and differences.
-- Originals, plan 5 minute story and introduction on you and your clan.   Props and acting encouraged with your stories.  Stick to the 5 minute time line.
-- Frank and Judith love story
-- Encores and requests
-- Family prayer, 'Leuck style'
-
-### Wednesday Family Night
-
-### Thursday Family Night
-
-### Friday Family Night
