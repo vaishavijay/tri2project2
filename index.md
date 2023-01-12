@@ -8,8 +8,15 @@
   gtag('config', 'G-PFHSSXMJCJ');
 </script>
 
-## Typical Day Schedule
+<div class="container">
+  <img src="Learning.banner.jpg" alt="Snow" style="width:100%;">
+  <div class="bottom-left">Bottom Left</div>
+  <div class="top-left">APCSA</div>
+  <div class="top-right">Vaishavi Jayashankar</div>
+  <div class="centered">Weekly Day Student Schedule</div>
+</div>
 
+<p>Note: Reloading the page resets the table</p>
 <body>
 
 <table style="width:100%">
